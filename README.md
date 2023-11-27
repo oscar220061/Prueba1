@@ -7,6 +7,8 @@ cd examen_pruebas
 npm install
 
 
+#Crea tu propio repositorio público en tu github (en mi caso es examen_pruebas_upload)
+
 git remote set-url origin https://github.com/santy/examen_pruebas_upload.git
 
 git checkout main
